@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "name": "Aarav Sharma",
+        "standard": "10",
+        "subjects": [
+            96,
+            94,
+            98
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Aanya Patel",
+        "standard": "9",
+        "subjects": [
+            88,
+            91,
+            86
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Vivaan Gupta",
+        "standard": "10",
+        "subjects": [
+            76,
+            82,
+            79
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Diya Reddy",
+        "standard": "8",
+        "subjects": [
+            67,
+            72,
+            69
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Arjun Mehta",
+        "standard": "9",
+        "subjects": [
+            54,
+            59,
+            61
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Ira Nair",
+        "standard": "7",
+        "subjects": [
+            42,
+            38,
+            45
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Aditya Joshi",
+        "standard": "10",
+        "subjects": [
+            31,
+            28,
+            34
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Anaya Singh",
+        "standard": "8",
+        "subjects": [
+            91,
+            87,
+            93
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Reyansh Kumar",
+        "standard": "9",
+        "subjects": [
+            83,
+            78,
+            82
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Myra Desai",
+        "standard": "7",
+        "subjects": [
+            72,
+            75,
+            68
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Krishna Shah",
+        "standard": "10",
+        "subjects": [
+            61,
+            65,
+            62
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Sara Iyer",
+        "standard": "8",
+        "subjects": [
+            49,
+            56,
+            52
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Kabir Rao",
+        "standard": "9",
+        "subjects": [
+            22,
+            31,
+            27
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Saanvi Verma",
+        "standard": "6",
+        "subjects": [
+            97,
+            96,
+            92
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Ishaan Malhotra",
+        "standard": "10",
+        "subjects": [
+            86,
+            84,
+            88
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Aditi Chawla",
+        "standard": "9",
+        "subjects": [
+            74,
+            79,
+            73
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Atharv Kulkarni",
+        "standard": "8",
+        "subjects": [
+            63,
+            68,
+            66
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Kiara Bose",
+        "standard": "7",
+        "subjects": [
+            58,
+            51,
+            57
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Rohan Das",
+        "standard": "10",
+        "subjects": [
+            40,
+            44,
+            39
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Meera Pillai",
+        "standard": "8",
+        "subjects": [
+            18,
+            25,
+            29
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Dev Khanna",
+        "standard": "9",
+        "subjects": [
+            94,
+            89,
+            91
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Tara Sethi",
+        "standard": "6",
+        "subjects": [
+            81,
+            85,
+            80
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Neil Bhat",
+        "standard": "10",
+        "subjects": [
+            77,
+            71,
+            74
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Riya Menon",
+        "standard": "9",
+        "subjects": [
+            69,
+            64,
+            70
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Om Prakash",
+        "standard": "7",
+        "subjects": [
+            56,
+            60,
+            54
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Zoya Khan",
+        "standard": "8",
+        "subjects": [
+            46,
+            42,
+            49
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Parth Sinha",
+        "standard": "10",
+        "subjects": [
+            30,
+            23,
+            32
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Anvi Joshi",
+        "standard": "9",
+        "subjects": [
+            90,
+            95,
+            88
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Dhruv Jain",
+        "standard": "6",
+        "subjects": [
+            84,
+            79,
+            81
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Ishita Paul",
+        "standard": "8",
+        "subjects": [
+            75,
+            70,
+            72
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Yuvaan Roy",
+        "standard": "10",
+        "subjects": [
+            66,
+            63,
+            67
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Nisha Thomas",
+        "standard": "7",
+        "subjects": [
+            52,
+            58,
+            55
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Samar Dutta",
+        "standard": "9",
+        "subjects": [
+            43,
+            47,
+            41
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Prisha Ghosh",
+        "standard": "8",
+        "subjects": [
+            15,
+            30,
+            24
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Rudra Shetty",
+        "standard": "10",
+        "subjects": [
+            98,
+            93,
+            95
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Avni Kapoor",
+        "standard": "9",
+        "subjects": [
+            87,
+            82,
+            85
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Kian Fernandes",
+        "standard": "6",
+        "subjects": [
+            78,
+            76,
+            73
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Pihu Agarwal",
+        "standard": "7",
+        "subjects": [
+            68,
+            72,
+            65
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Ayaan Bansal",
+        "standard": "10",
+        "subjects": [
+            59,
+            55,
+            62
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Mira Nanda",
+        "standard": "8",
+        "subjects": [
+            48,
+            44,
+            51
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Eshan Saxena",
+        "standard": "9",
+        "subjects": [
+            27,
+            35,
+            29
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Sia Arora",
+        "standard": "10",
+        "subjects": [
+            92,
+            90,
+            94
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Vedant Mishra",
+        "standard": "7",
+        "subjects": [
+            82,
+            81,
+            77
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Navya Pandey",
+        "standard": "8",
+        "subjects": [
+            73,
+            69,
+            75
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Shaurya Yadav",
+        "standard": "9",
+        "subjects": [
+            64,
+            67,
+            61
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Aisha Qureshi",
+        "standard": "6",
+        "subjects": [
+            53,
+            49,
+            57
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Laksh Vora",
+        "standard": "10",
+        "subjects": [
+            39,
+            44,
+            42
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Jhanvi Lal",
+        "standard": "8",
+        "subjects": [
+            20,
+            28,
+            31
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Ritvik Oberoi",
+        "standard": "9",
+        "subjects": [
+            95,
+            92,
+            89
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Tanvi Bedi",
+        "standard": "7",
+        "subjects": [
+            85,
+            80,
+            83
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Arnav Bhatt",
+        "standard": "10",
+        "subjects": [
+            79,
+            74,
+            77
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Samaira Gill",
+        "standard": "8",
+        "subjects": [
+            70,
+            66,
+            71
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Vihaan Kaur",
+        "standard": "9",
+        "subjects": [
+            62,
+            60,
+            65
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Ishani Sood",
+        "standard": "6",
+        "subjects": [
+            55,
+            52,
+            58
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Manav Puri",
+        "standard": "10",
+        "subjects": [
+            45,
+            41,
+            46
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Eva D'Souza",
+        "standard": "8",
+        "subjects": [
+            25,
+            32,
+            27
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Harsh Vyas",
+        "standard": "9",
+        "subjects": [
+            93,
+            88,
+            91
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Mahi Chandra",
+        "standard": "7",
+        "subjects": [
+            80,
+            84,
+            78
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Raghav Sen",
+        "standard": "10",
+        "subjects": [
+            71,
+            75,
+            69
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Aarohi Tripathi",
+        "standard": "8",
+        "subjects": [
+            65,
+            61,
+            68
+        ]
+    }
+]
